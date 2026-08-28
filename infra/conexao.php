@@ -5,7 +5,7 @@ $username = "root";
 $password = "root";
 $db = "atividade_10";
 
-$conexao = new mysqli($host, $usenrame, $password, $db);
+$conexao = new mysqli($host, $username, $password, $db);
 
 if($conexao->connect_error){
 

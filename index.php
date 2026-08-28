@@ -18,7 +18,7 @@
 
 <h2> Menu de Opções </h2>
 
-
+<a href="public/cadastroCliente.php"> Cadastro de Clientes</a>
 
 </main>
     
